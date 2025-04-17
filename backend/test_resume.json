@@ -1,0 +1,54 @@
+{
+  "name": "John Doe",
+  "title": "Software Engineer",
+  "location": "Taipei, Taiwan",
+  "contact": {
+    "email": "john.doe@example.com",
+    "phone": "+886-912-345-678",
+    "linkedin": "linkedin.com/in/johndoe"
+  },
+  "summary": "Experienced software engineer with 5+ years of experience in full-stack development. Proficient in Python, JavaScript, and cloud technologies.",
+  "experience": [
+    {
+      "company": "Tech Corp",
+      "position": "Senior Software Engineer",
+      "duration": "2020-Present",
+      "responsibilities": [
+        "Led development of microservices architecture",
+        "Implemented CI/CD pipelines",
+        "Mentored junior developers"
+      ]
+    },
+    {
+      "company": "StartUp Inc",
+      "position": "Software Engineer",
+      "duration": "2018-2020",
+      "responsibilities": [
+        "Developed RESTful APIs",
+        "Built frontend applications",
+        "Optimized database queries"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "school": "National Taiwan University",
+      "year": "2018"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "National Taiwan University",
+      "year": "2016"
+    }
+  ]
+} 
